@@ -1,0 +1,6 @@
+# Blokir virtual environment lokal dan cache Python
+env/
+venv/
+__pycache__/
+*.pyc
+.env
