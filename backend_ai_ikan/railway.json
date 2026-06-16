@@ -1,0 +1,11 @@
+{
+  "build": {
+    "nixpacksPlan": {
+      "providers": {
+        "python": {
+          "version": "3.10"
+        }
+      }
+    }
+  }
+}
